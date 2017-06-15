@@ -1,0 +1,44 @@
+h1#r{font-size:72px;
+  color:red;
+}
+h1#g{
+color:green
+}
+h1#b{
+color:blue
+}
+div{
+  color:blue
+}
+a{
+  color:green;
+  text-decoration: none;
+}
+
+    .local{
+
+      border:5px solid red;
+    }
+    table{
+background-image: url('../img/a.jpg');
+    }
+table,tr,td,th{
+  border:1px solid black;
+  border-collapse:collapse;
+  width:5px;
+  color:red;
+}
+#heading{
+  border:5px solid green;
+}
+#kk{
+  background-color: red;
+  color:white;
+}
+img{
+  width:100px;
+}
+ul{
+  list-style-type: lower-roman;
+  text-transform: capitalize;
+}

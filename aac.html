@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title></title>
+  </head>
+  <body>
+    <p id="content"> this is content</p>
+  <script>
+// function displayHoursInSeconds(hrs){
+// var inSeconds=(hrs*60*60);
+// alert(inSeconds);
+// }
+// displayHoursInSeconds(6);
+//
+//
+// function printTable(h){
+//   for(var i=1;i<11;i++){
+//     document.write(h+"*"+i+"="+h*i+"<br>");
+//   }
+// }
+// printTable(5);
+function convertToFerhenite(n){
+  var fah=(n*9/5+32);
+  alert(n+"dcelcius="+fah+"fah");
+}
+//
+convertToFerhenite(35);
+
+
+function convert(n){
+  var fah=n*9/5+32;
+  var kel=n+273.15;
+  var output="user Input:"+n+"</br>";
+  output=output+n+"degree cel="+fah+"f</br>";
+  output+=n+"deg cel="+kel;
+  document.getElementById("content").innerHTML=output;
+
+
+}
+convert(55);
+function getaAreaOfRectangle(l,b){
+var a=(l*b);
+alert(a);
+
+
+}
+getaAreaOfRectangle(6,9);
+
+</script>
+</body>
+
+</html>
