@@ -59,12 +59,12 @@ background-attachment: fixed;
 
 }*/
 div{
-background-color:#ff99cc
+background-color:red;
 ;
 border: 1px solid green;
 
 }
-h1{
+/*h1{
 text-decoration: underline;
 text-decoration: overline;
 
@@ -74,4 +74,17 @@ p{
 font-family: 'Lobster', cursive;
 text-align: justify;
 
+}*/
+p{
+
+text-align: left;
+
+}
+span{
+margin-left: 20px;
+text-decoration-color: black;
+
+}
+.dd{
+  font-size: 76px;
 }
