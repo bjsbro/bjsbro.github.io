@@ -84,7 +84,7 @@ text-align: left;
 margin-left: 20px;
 text-decoration-color: black;
 }*/
-.dd{
+/*.dd{
 text-decoration-color: blue;
   font-size: 76px;
   background-color: blue;
@@ -95,5 +95,49 @@ body{
 }
 i{
 background-color: red;
+
+}*/
+a{
+text-decoration: none;
+
+}
+
+a:link{
+text-decoration: none;
+font-family: fantasy;
+}
+a:hover{
+
+  font-size: 58px;
+}
+a:active{
+color: black;
+}
+a:visited{
+color:green;
+}
+table,tr,th,td{
+border: 2px solid red;
+border-collapse: collapse;
+
+}
+th{
+background-color: green;
+color: white;
+padding: 15px;
+}
+/*tr:hover{
+font-family: cursive;
+background-color:#abb8ce;
+}*/
+
+
+table{
+width: 100%;
+display: inline;
+scroll-behavior: smooth;
+}
+tr:nth-child(even){
+background-color: #e2d0e1;
 
 }
