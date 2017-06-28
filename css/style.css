@@ -132,53 +132,6 @@ background-color:#abb8ce;
 }*/
 /*body{
   background-image: url(http://cardiostart.org/wp-content/uploads/2016/05/Nepal-Flag-320x202.gif);*/
-}
-div{
-height:100px;
-width: 100px;
-color: white;
-}
-#blue{
-  background-color: blue;
-  position: fixed;
-  top:0px;
-  left:0px;
-}
-#black{
-  background-color: black;
-  position: fixed;
-  bottom:0px;
-  right:0px;
-}
-#green{
-  background-color: green;
-  position: fixed;
-  top:0px;
-  right:0px;
-}
-#red{
-background-color: red;
-position: fixed;
-bottom:0px;
-left:0px;
-
-}
-#center{
-  position: fixed;
-top:200px;
-  background-color: purple;
-  right:45%;
-}
-.relative{
-background-color: orange;
-position: relative;
-bottom: 50px;
-right:50px:
-z-index: 2;
-
-}
-.absolute{
-background-color: yellow;
-position: absolute;
-top: 15px;
-}
+/*p{
+  text-align: justify;
+}*/
