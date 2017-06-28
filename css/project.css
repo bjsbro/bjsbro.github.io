@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 #blue{
   background-color: blue;
@@ -6,5 +7,8 @@
   left:0px;
 }
 body{
+=======
+.Bigger > .abc{
+>>>>>>> b55786a696931565641cc3e477c143674b990992
   background-color: red;
 }
