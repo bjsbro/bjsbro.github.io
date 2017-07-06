@@ -1,0 +1,16 @@
+.icons{
+  position: absolute;
+  top:60px;
+  right:0px;
+}
+.fa:hover{
+  font-size: 50px;
+}
+.quote{
+  font-size: 40px;
+  font-style: italic;
+  background-image: url(https://image.freepik.com/free-vector/blue-and-green-wavy-background_1035-7430.jpg);
+  background-attachment: fixed;
+  color: white;
+
+}
