@@ -14,3 +14,19 @@
   color: white;
 
 }
+.gallary-container{
+  position: relative;
+}
+.description{
+  position: absolute;
+  bottom: 0px;
+  background-color: #5e6166;
+  color: white;
+  padding-left: 10px;
+
+  font-weight: bold;
+}
+h3{
+  background-color: black;
+  color: white;
+}
